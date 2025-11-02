@@ -1,5 +1,5 @@
 ####################################################################################
-WE ARE GETTING CLOSE TO A FIRST IMPLEMENTATION OF.
+WE ARE GETTING CLOSE TO A FIRST IMPLEMENTATION OF. This defines the entry of Nov 1.
 ####################################################################################
 An AI for everyone, by everyone, the usefulness of which becomes clear 
 in everyday wonder at connections in anything. It's not about where the connections 
@@ -16,4 +16,6 @@ entity, most accessible through and derived from reality, whatever that may be.
 So that major conflicts and wars can be avoided as there is a right answer, 
 so that we know what to aim for, so that we know how to navigate the universe
 in the desired event that interstellar travel becomes something grand.
+####################################################################################
+This defines the entry of the week of Nov 1.
 ####################################################################################
